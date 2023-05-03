@@ -1,5 +1,5 @@
 #nav{
-    background-color: rgba(191, 256, 236, 1);
+    background-color:rgb(204, 221, 228);
     font-variant: small-caps;
     font-size: large;
     font-weight: bolder;
@@ -50,5 +50,5 @@ i.bi {
 #bottom{
     font-size: 1.5rem;
     padding-bottom: 10px;
-    background-color:rgb(191, 256, 236)
+    background-color:rgb(204, 221, 228);
 }

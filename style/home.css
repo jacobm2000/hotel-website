@@ -1,0 +1,75 @@
+#nav{
+background-color:rgb(204, 221, 228);
+   font-variant: small-caps;
+   font-size: large;
+   font-weight: bolder;
+}
+
+#banner{
+    text-align: center;
+   padding-top: 20rem;
+   padding-bottom: 20rem;
+ 
+   font-size:2rem;
+   font-weight: bolder;
+   color: aqua;
+   text-shadow: 4px 4px black;
+    justify-content: center;
+    display: flex;
+}
+
+#middle{
+    background-color:rgb(204, 221, 228);
+    width: 100%;  
+}
+.card{
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+#card
+    {
+        padding-top: 3rem;
+        
+    }
+
+#card-img{
+    height:250px
+}
+
+i.bi{
+    font-size: 2rem;
+}
+#icons:hover{
+    color:green;
+}
+#contact{
+    color: black;
+    font-family:fantasy;
+    font-size: larger;
+    padding-left: 2rem;
+    display: inline;
+}
+#bottom{
+    background-color:rgb(204, 221, 228);
+
+@media only screen and (max-width: 1000px){
+    #bg{
+    height: auto;
+    }
+    #banner{
+        padding-top: 10rem;
+        padding-bottom: 10rem;
+        font-size: 1rem;
+    }
+    
+    #middle{
+        
+        
+        
+        align-items: center;
+    }
+
+    
+
+}

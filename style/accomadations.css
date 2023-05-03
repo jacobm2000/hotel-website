@@ -1,0 +1,54 @@
+#nav{
+    background-color: rgba(191, 256, 236, 1);
+    font-variant: small-caps;
+    font-size: large;
+    font-weight: bolder;
+ }
+
+#banner{
+    color:gray;
+    padding-top: 50px;
+    font-size: xx-large;
+    font-style: italic;
+    text-decoration:double;
+    justify-content: center;
+    display:flex ;
+
+}
+
+ #room{
+    padding-top: 100px;
+ }
+ #room-type{
+    color: darkorange;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    padding-bottom: 5px;
+ }
+#cImg{
+    height: 500px;
+}
+#bg{
+    padding-top: 500px;
+}
+
+#icons:hover{
+    color:green;
+}
+#contact{
+    color: black;
+    font-family:fantasy;
+    font-size: larger;
+    padding-left: 2rem;
+    display: inline;
+}
+i.bi {
+    
+    font-size:2rem ;
+
+}
+#bottom{
+    font-size: 1.5rem;
+    padding-bottom: 10px;
+    background-color:rgb(191, 256, 236)
+}

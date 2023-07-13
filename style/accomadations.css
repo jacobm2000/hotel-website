@@ -1,54 +1,60 @@
-#nav{
-    background-color:rgb(204, 221, 228);
+#nav {
+    background-color: rgb(204, 221, 228);
     font-variant: small-caps;
     font-size: large;
     font-weight: bolder;
- }
+}
 
-#banner{
-    color:gray;
+#banner {
+    color: gray;
     padding-top: 50px;
     font-size: xx-large;
     font-style: italic;
-    text-decoration:double;
+    text-decoration: double;
     justify-content: center;
-    display:flex ;
+    display: flex;
 
 }
 
- #room{
+#room {
     padding-top: 100px;
- }
- #room-type{
+}
+
+#room-type {
     color: darkorange;
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
     padding-bottom: 5px;
- }
-#cImg{
+}
+
+#cImg {
     height: 22rem;
 }
-#bg{
+
+#bg {
     padding-top: 500px;
 }
 
-#icons:hover{
-    color:green;
+#icons:hover {
+    color: green;
 }
-#contact{
+
+#contact {
     color: black;
-    font-family:fantasy;
+    font-family: fantasy;
     font-size: larger;
     padding-left: 2rem;
     display: inline;
 }
+
 i.bi {
-    
-    font-size:2rem ;
+
+    font-size: 2rem;
 
 }
-#bottom{
+
+#bottom {
     font-size: 1.5rem;
     padding-bottom: 10px;
-    background-color:rgb(204, 221, 228);
+    background-color: rgb(204, 221, 228);
 }
